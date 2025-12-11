@@ -63,7 +63,7 @@
           </div>
         </header><div class="section">
       <h2 style="margin:0 0 8px;font-size:18px">About</h2>
-      <p class="muted">I focus on building efficient backend systems, APIs, and exploring blockchain technologies.</p>
+      <p class="muted">I build efficient backend systems and explore crypto technologies to create scalable solutions.</p>
     </div>
 
     <div class="section">
@@ -71,55 +71,37 @@
       <div class="projects">
         <article class="proj">
           <h3>Project Atlas — <small class="muted">SaaS Dashboard</small></h3>
-          <p>Enterprise-grade admin dashboard with realtime charts, role-based access and solid testing.</p>
+          <p>Enterprise-grade admin dashboard with realtime charts and role-based access.</p>
           <div class="tags"><span class="tag">React</span><span class="tag">Node.js</span><span class="tag">Postgres</span></div>
         </article>
 
         <article class="proj">
-          <h3>Streamline — <small class="muted">API & Integrations</small></h3>
-          <p>High-throughput REST API with background workers and observability for third-party integrations.</p>
+          <h3>Streamline API — <small class="muted">REST API</small></h3>
+          <p>High-performance REST API for handling data integrations with monitoring and logs.</p>
           <div class="tags"><span class="tag">Python</span><span class="tag">FastAPI</span><span class="tag">Redis</span></div>
         </article>
 
         <article class="proj">
-          <h3>Static Portfolio Generator — <small class="muted">Open Source</small></h3>
-          <p>CLI tool to scaffold and build static portfolio sites with GitHub Pages support.</p>
-          <div class="tags"><span class="tag">Go</span><span class="tag">CLI</span><span class="tag">CI</span></div>
+          <h3>Crypto Tracker — <small class="muted">Web Tool</small></h3>
+          <p>A backend service that powers a crypto price tracking tool used for alerts and analytics.</p>
+          <div class="tags"><span class="tag">Go</span><span class="tag">Postgres</span><span class="tag">Docker</span></div>
         </article>
       </div>
     </div>
-
-    <div class="section">
-      <h2 style="margin:0 0 8px;font-size:18px">Experience</h2>
-      <div style="display:flex;flex-direction:column;gap:10px">
-        <div>
-          <strong>Senior Engineer</strong> — Acme Corp <span class="muted">(2021 — Present)</span>
-          <div class="muted">Led backend team, improved API latency by 40% and introduced contract tests.</div>
-        </div>
-        <div>
-          <strong>Software Engineer</strong> — Nova Labs <span class="muted">(2018 — 2021)</span>
-          <div class="muted">Built internal tools and maintained the public API used by partners.</div>
-        </div>
-      </div>
-    </div>
-
-    <footer>
-      <div>Upload this file as <code>index.html</code> to your GitHub repo to host your portfolio.</div>
-    </footer>
   </section>
 
   <aside class="sidebar">
     <div class="card">
       <h3 style="margin-top:0">Skills</h3>
       <div class="skills">
-        <span class="skill">JavaScript</span>
-        <span class="skill">React</span>
         <span class="skill">Node.js</span>
-        <span class="skill">TypeScript</span>
         <span class="skill">Python</span>
-        <span class="skill">Docker</span>
-        <span class="skill">AWS</span>
+        <span class="skill">FastAPI</span>
         <span class="skill">Postgres</span>
+        <span class="skill">Docker</span>
+        <span class="skill">REST APIs</span>
+        <span class="skill">Git</span>
+        <span class="skill">Cloud (AWS/GCP)</span>
       </div>
 
       <hr style="border:none;height:1px;background:rgba(255,255,255,0.03);margin:14px 0">
@@ -127,19 +109,13 @@
       <h3 style="margin:0 0 8px">Contact</h3>
       <div class="contact-list">
         <a class="btn" href="mailto:otienoisaiah696@gmail.com">Email me</a>
-        <a style="text-decoration:none;color:var(--muted);font-size:13px" href="https://github.com/your-username" target="_blank" rel="noopener">github.com/your-username</a>
-        <a style="text-decoration:none;color:var(--muted);font-size:13px" href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener">linkedin.com/in/your-profile</a>
+        <a style="text-decoration:none;color:var(--muted);font-size:13px" href="https://github.com/your-username" target="_blank">github.com/your-username</a>
+        <a style="text-decoration:none;color:var(--muted);font-size:13px" href="https://www.linkedin.com/in/isaiah-ochieng-16a9b9189" target="_blank">linkedin.com/in/isaiah-ochieng-16a9b9189</a>
       </div>
     </div>
   </aside>
 </div>
 
-  </main>  <script>
-    document.addEventListener('keydown', (e)=>{
-      if((e.key==='e' || e.key==='E') && !e.metaKey && !e.ctrlKey){
-        const mail = 'otienoisaiah696@gmail.com';
-        window.location.href = 'mailto:' + mail;
-      }
-    });
-  </script></body>
+  </main>
+</body>
 </html>
