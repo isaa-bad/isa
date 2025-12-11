@@ -104,7 +104,7 @@
     </div>
 
     <footer>
-      <div>Upload this file as <code>index.html</code> to your GitHub repo to host your portfolio.</div>
+      </div>
     </footer>
   </section>
 
