@@ -109,7 +109,7 @@
       <h3 style="margin:0 0 8px">Contact</h3>
       <div class="contact-list">
         <a class="btn" href="mailto:otienoisaiah696@gmail.com">Email me</a>
-        <a style="text-decoration:none;color:var(--muted);font-size:13px" href="https://github.com/your-username" target="_blank">github.com/your-username</a>
+        <a style="text-decoration:none;color:var(--muted);font-size:13px" href="https://github.com/your-username" target="_blank">github.com/isaa-bad/isa</a>
         <a style="text-decoration:none;color:var(--muted);font-size:13px" href="https://www.linkedin.com/in/isaiah-ochieng-16a9b9189" target="_blank">linkedin.com/in/isaiah-ochieng-16a9b9189</a>
       </div>
     </div>
