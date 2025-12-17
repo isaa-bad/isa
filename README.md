@@ -18,7 +18,12 @@ It exists purely as a **technical showcase**.
 
 ## 🛠️ Tech Stack
 - **Languages:**  
-  - C++ (core logic / performance-critical components)  
+  - C++ (core logic / performance-critical components) 
+Stealthbay/
+│── core/        # Core logic (C++)
+│── backend/     # Python services
+│── docs/        # Design notes & research
+│── README.md 
   - Python (backend services, automation, prototypes)
 
 - **Tools:**  
