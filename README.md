@@ -109,13 +109,7 @@
     <div class="section">
       <h2>Skills</h2>
       <div class="skills">
-        <div class="skill">Node.js<div class="bar"><span style="width:90%"></span></div></div>
-        <div class="skill">Python<div class="bar"><span style="width:85%"></span></div></div>
-        <div class="skill">FastAPI<div class="bar"><span style="width:80%"></span></div></div>
-        <div class="skill">Postgres<div class="bar"><span style="width:75%"></span></div></div>
-        <div class="skill">Docker<div class="bar"><span style="width:70%"></span></div></div>
-        <div class="skill">REST APIs<div class="bar"><span style="width:95%"></span></div></div>
-        <div class="skill">Git<div class="bar"><span style="width:90%"></span></div></div>
+        <div class="skill">Python <div class="bar"><span style="width:90%"></span></div></div>
       </div>
     </div>
 
