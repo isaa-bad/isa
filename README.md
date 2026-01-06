@@ -72,7 +72,7 @@
       <div class="avatar">IO</div>
       <div>
         <h1>Isaiah Ochieng</h1>
-        <p class="lead">Backend Developer & Crypto Enthusiast</p>
+        <p class="lead">Backend Developer</p>
         <div class="meta">
           <span class="chip">Open to work</span>
           <span class="chip">Kenya, Nairobi</span>
@@ -109,7 +109,7 @@
     <div class="section">
       <h2>Skills</h2>
       <div class="skills">
-        <div class="skill">Python <div class="bar"><span style="width:90%"></span></div></div>
+        <div class="skill">Python<div class="bar"><span style="width:90%"></span></div></div>
       </div>
     </div>
 
