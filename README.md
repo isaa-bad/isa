@@ -111,7 +111,7 @@
       <div class="skills">
         <div class="skill">Python<div class="bar"><span style="width:70%"></span></div></div>
 
-<div class="skill">C++<div class="bar"><span style="width:50%></span></div></div>
+<div class="skill">C++<div class="bar"><span style="width:50%"></span></div></div>
       </div>
     </div>
 
