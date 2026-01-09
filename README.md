@@ -144,20 +144,20 @@ function toggleTheme(){
 </script></body>
 </html>
 
-# Stealthbay
+#Current project
 
-Stealthbay is a **portfolio project** exploring the technical foundations of an anonymous online marketplace architecture, focusing on **privacy, decentralization concepts, and crypto-based payments** — implemented for **educational and research purposes only**.
+My online market is a personal **portfolio project** exploring the technical foundations of an anonymous online marketplace architecture, focusing on **privacy, decentralization concepts, and monero-based payments** — ** currently deployed on the onion network**.
 
 ##  Project Overview
 
-This project demonstrates how privacy-focused systems *could* be designed using modern cryptography, backend logic, and secure communication principles, while remaining accessible via a normal website interface.
+This project is designed for privacy-focused systems *could* be designed using modern cryptography, backend logic, and secure communication principles, while remaining accessible via a normal website interface.
 
-**Stealthbay does NOT host real transactions or illegal content.**  
+**It does NOT host real transactions or illegal content.**  
 It exists purely as a **technical showcase**.
 
 ##  Key Concepts Demonstrated
-- Anonymous-style user architecture (conceptual)
-- Crypto-based payment flow simulation
+- Anonymous-style user architecture
+- Crypto-based payment 
 - Separation of frontend access and backend logic
 - Security-first design thinking
 - Privacy-aware system modeling
@@ -165,11 +165,6 @@ It exists purely as a **technical showcase**.
 ##  Tech Stack
 - **Languages:**  
   - C++ (core logic / performance-critical components) 
-Stealthbay/
-│── core/        # Core logic (C++)
-│── backend/     # Python services
-│── docs/        # Design notes & research
-│── README.md 
   - Python (backend services, automation, prototypes)
 
 - **Tools:**  
@@ -178,5 +173,5 @@ Stealthbay/
 
 ##  Installation (Development)
 ```bash
-git clone https://github.com/isaa-bad/Stealthbay.git
-cd Stealthbay
+git clone https://github.com/isaa-bad/.git
+cd project 1
