@@ -76,7 +76,7 @@
         <div class="meta">
           <span class="chip">Open to work</span>
           <span class="chip">Kenya, Nairobi</span>
-          <span class="chip">otienoisaiah696@gmail.com</span>
+          <span class="chip">badbad66@proton.me</span>
         </div>
       </div>
     </header>
@@ -119,7 +119,7 @@
     <div class="section">
       <h2>Contact</h2>
       <div class="contact-list">
-        <a class="btn" href="mailto:otienoisaiah696@gmail.com">Email Me</a>
+        <a class="btn" href="mailto:badbad66@proton.me">Mail Me</a>
         <a href="https://github.com/isaa-bad" target="_blank">GitHub</a>
         <a href="https://www.linkedin.com/in/isaiah-ochieng-16a9b9189" target="_blank">LinkedIn</a>
       </div>
@@ -127,10 +127,10 @@
 
     <div class="section">
       <h2>Message Me</h2>
-      <form action="https://formsubmit.co/otienoisaiah696@gmail.com" method="POST">
+      <form action="https://formsubmit.co/badbad66@proton.me" method="POST">
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Your Name" required style="width:100%;padding:10px;margin:5px 0;border-radius:8px;border:1px solid #ccc;">
-        <input type="email" name="email" placeholder="Your Email" required style="width:100%;padding:10px;margin:5px 0;border-radius:8px;border:1px solid #ccc;">
+        <input type="mail" name="mail" placeholder="Your Email" required style="width:100%;padding:10px;margin:5px 0;border-radius:8px;border:1px solid #ccc;">
         <textarea name="message" placeholder="Message" required style="width:100%;padding:10px;margin:5px 0;border-radius:8px;border:1px solid #ccc;height:80px;"></textarea>
         <button type="submit" class="btn">Send Message</button>
       </form>
